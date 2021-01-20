@@ -4,8 +4,9 @@
   "description": "Blink Test Automation Assignment",
   "main": "index.js",
   "scripts": {
+    "cypress:open": "cypress open",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    },
   "author": "FrankaBuurmeijer",
   "license": "ISC",
   "devDependencies": {
